@@ -1,4 +1,4 @@
-# SSH
+# Chapter 1 - SSH
 
 To log in to your Raspberry Pi remotely, you'll need the IP of the Raspberry Pi – this is basically like your house address and tells the host computer where to look for it on the network. By default, the Raspberry Pi will be given an IP automatically by the router (called Dynamic IP and denoted by DHCP) when you connect to a network. However, this can change whenever you remove the Pi from the network e.g. turn it off.
 
