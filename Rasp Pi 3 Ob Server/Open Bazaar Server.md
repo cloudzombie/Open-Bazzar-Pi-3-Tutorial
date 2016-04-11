@@ -6,10 +6,17 @@ Alright now it's time for what everyone is here for, installing Open Bazaar! Ope
 
 ```sudo apt-get install -y git python-dev libffi-dev libssl-dev python-setuptools nano ```
 
+Once this finishes type
+
 ```sudo easy_install pip```
+
+Now we need to clone the Open Bazaar Server repository
 
 ```git clone https://github.com/OpenBazaar/OpenBazaar-Server.git
 cd OpenBazaar-Server/```
+
+And install Open Bazaar's requirements 
+
 
 ```sudo pip install -r requirements.txt```
 
